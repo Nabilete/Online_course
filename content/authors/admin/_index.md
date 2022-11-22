@@ -6,11 +6,11 @@ title: Nabil Mehaba
 superuser: true
 
 # Role/position
-role: Python Instructor
+role: Data analises Instructor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Autonomous University of Barcelona
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
